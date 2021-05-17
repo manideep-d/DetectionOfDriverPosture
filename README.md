@@ -7,3 +7,6 @@ The distraction of drivers from the safe driving position is considered one of t
 **Conclusion:-**
 From the above experiments, both vgg16 and cnn model has performed well with accuracy of 96 and 99 respectively. These models are able to predict the correct label from the unlabeled test images. From the future work perspective would like to perform the same experiments with more classification models like SVM, Naïve Bayes etc..
 
+
+**For further details please read Driverposition.pdf**
+
